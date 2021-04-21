@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version = 1.0
+Name =  JemLibra
+Exec = /home/samson/Documents/cipherme/myvirus/shell/sam.sh
+Icon = /home/samson/Pictures/test.jpg
+Type = Application

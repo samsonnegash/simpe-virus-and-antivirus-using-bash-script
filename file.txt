@@ -1,0 +1,60 @@
+ # rm file_2.txt file_3.txt
+
+# rm *.png
+
+# rm -i *.dat
+
+
+# rm -f filename
+
+#rm -rf /home/samson/Documents/ttt/examples*
+
+# tree
+
+
+# find * -depth -print -delete | wc -l
+
+#chmod +x /home/samson/Documents/cipherme/myvirus/shell/virus.sh
+
+
+
+# cd //
+# for f in ./antivirus.sh
+./same2.sh
+./sam.sh
+./same.sh
+./fun.sh;
+# do echo ---- ; 
+#  if grep -q rm ;
+#  then
+#     echo The files is virus 
+#  else
+#     echo The files is safe
+#  fi
+# done
+
+# paste same.sh same.sh > same.sh 
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+funn
+
+  
